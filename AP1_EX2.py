@@ -97,5 +97,4 @@ while True:  # laço de repetição para receber os pedidos
         continue  # segue laço de repetição
     total = total + valor  # somatorio de todos os pedidos
 
-total3049987 = total  # RU na variável
-print('\nO total a ser pago é: R${:.2f}.'.format(total3049987))  # mostra na tela valor final do pedido
+print('\nO total a ser pago é: R${:.2f}.'.format(total))  # mostra na tela valor final do pedido
